@@ -26,4 +26,14 @@ def check_python_architecture():
 
 
 if __name__ == "__main__":
-    check_python_architecture()
+
+
+check_python_architecture()
+
+check_python2_architecture()
+arc ="32BIT"
+
+
+check_python_architecture() 
+
+arc = "82bit"
